@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Rorisang's Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <table cellspacing = '20'>
+        <tr>
+            <td><img src = "1660298849502-modified.png" alt = "Rorisang's profile picture" length = '150' width = '150'></td>
+            <td><h1>Rorisang Mangole</h1>
+                <p><em>Founder of <a href = "https://www.instagram.com/rogernetic/">Rogernetics</a> <strong>Basic IT services</strong>.</em></p>
+                <p>I am an IT student at the <a href = "https://www.cut.ac.za/">Central University of Technology</a>. I am into web development and graphic designs.</p></td>
+        </tr>
+    </table>
+    
+    
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>Central University of Technology</li>
+        <li>Mafikeng High School</li>
+        <li>Laerskool Mareetsane</li>
+        <li>Reaithuta Primary School</li>
+    </ul>
+    <hr>
+    <h3>Work Expirience</h3>
+    
+    <table cellspacing = '10'>
+        <thead>
+            <tr>
+                <th align = 'left'>Dates</th>
+                <th align = 'left'>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2022 Jan - 2022 Dec</td>
+                <td>Peer Mentor</td>
+            </tr>
+            <tr>
+                <td>2022 Jan - 2022 Dec</td>
+                <td>House Committee</td>
+            </tr>
+        </tbody>
+        
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing = '10'>
+        <tr>
+            <td><a href = 'https://rogeristics.github.io/My-CV/'>Web Development</a></td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>    
+            <td>Graphic Design</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Software Development</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>    
+            <td>Photography</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+    </table>
+    <hr>
+    <h3><a href = "hobbies.html">Hobbies</a></h3>
+    <p><a href = "Contact.html">Contact Me</a></p>
+    
+</body>
+</html>
